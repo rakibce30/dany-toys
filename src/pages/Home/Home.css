@@ -1,0 +1,9 @@
+.react-tabs__tab--selected {
+    border: none !important;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    background-color: rgb(250, 204, 21, 1)
+}
+.react-tabs__tab--selected:focus-visible {
+    outline: none;
+}
